@@ -1,1 +1,1 @@
-# simple-chat
+# chat-example
